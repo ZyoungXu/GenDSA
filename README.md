@@ -7,33 +7,19 @@ Huangxuan Zhao<sup>1 ⚝ :email:</sup>,[Ziyang Xu](https://ziyangxu.top/)<sup>2 
 (⚝) equal contribution, (<sup>:email:</sup>) corresponding author.
 
 <sup>1</sup> Department of Radiology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.
-
 <sup>2</sup> Institute of AI, School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China.
-
 <sup>3</sup> Department of Radiology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.
-
 <sup>4</sup> Department of Interventional Radiology, Renmin Hospital of Wuhan University, Wuhan, China.
-
 <sup>5</sup> Department of Radiology, Tongren Hospital of Wuhan University (Wuhan Third Hospital), Wuhan University, Wuhan, China.
-
 <sup>6</sup> Department of Interventional Radiology, Zhongnan Hospital of Wuhan University, Wuhan, China.
-
 <sup>7</sup> Department of Radiology, Maternal and Child Health Hospital of Hubei Province, Wuhan, China.
-
 <sup>8</sup> Department of Radiology, Hubei Integrated Traditional Chinese and Western Medicine Hospital, Wuhan, China.
-
 <sup>9</sup> Department of Radiology, Zhongda Hospital, Medical School, Southeast University, Nanjing, China.
-
 <sup>10</sup> Institute of Research and Clinical Innovations, Neusoft Medical Systems, Co., Ltd, Shanghai, China.
-
 <sup>11</sup> CV Systems Research and Development Department, Neusoft Medical Systems, Co., Ltd, Shenyang, China.
-
 <sup>12</sup> Department of Radiology & Nuclear Medicine, Erasmus MC, University Medical Center Rotterdam, The Netherlands.
-
 <sup>13</sup> Department of Radiology and Nuclear Medicine, Amsterdam University Medical Centers, location AMC, Amsterdam, The Netherlands.
-
 <sup>14</sup> Department of Radiology and Nuclear Medicine, Cardiovascular Research Institute Maastricht, Maastricht University Medical Center, Maastricht, The Netherlands.
-
 <sup>15</sup> Center for Biological Imaging, Institute of Biophysics, Chinese Academy of Sciences, Beijing, China.
 
 
@@ -43,7 +29,7 @@ Huangxuan Zhao<sup>1 ⚝ :email:</sup>,[Ziyang Xu](https://ziyangxu.top/)<sup>2 
 
 </div>
 
-### News
+## News
 
 * **` March. 27th, 2024`:** We released our inference code. Paper/Project pages are coming soon. Please stay tuned! ☕️
 
