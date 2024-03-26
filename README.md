@@ -1,9 +1,3 @@
-<!--
- * @Author: Xu Ziyang
- * @Date: 2024-03-27 00:28:00
- * @LastEditTime: 2024-03-27 01:30:55
- * @Description: 
--->
 <div align="center">
 <h1>GenDSA</h1>
 <h3>Large-scale Pretrained Multi-Frame Generative Model Enables Real-Time Low-Dose DSA Imaging</h3>
@@ -13,19 +7,33 @@ Huangxuan Zhao<sup>1 ⚝ :email:</sup>,[Ziyang Xu](https://ziyangxu.top/)<sup>2 
 (⚝) equal contribution, (<sup>:email:</sup>) corresponding author.
 
 <sup>1</sup> Department of Radiology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.
+
 <sup>2</sup> Institute of AI, School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, China.
+
 <sup>3</sup> Department of Radiology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.
+
 <sup>4</sup> Department of Interventional Radiology, Renmin Hospital of Wuhan University, Wuhan, China.
+
 <sup>5</sup> Department of Radiology, Tongren Hospital of Wuhan University (Wuhan Third Hospital), Wuhan University, Wuhan, China.
+
 <sup>6</sup> Department of Interventional Radiology, Zhongnan Hospital of Wuhan University, Wuhan, China.
+
 <sup>7</sup> Department of Radiology, Maternal and Child Health Hospital of Hubei Province, Wuhan, China.
+
 <sup>8</sup> Department of Radiology, Hubei Integrated Traditional Chinese and Western Medicine Hospital, Wuhan, China.
+
 <sup>9</sup> Department of Radiology, Zhongda Hospital, Medical School, Southeast University, Nanjing, China.
+
 <sup>10</sup> Institute of Research and Clinical Innovations, Neusoft Medical Systems, Co., Ltd, Shanghai, China.
+
 <sup>11</sup> CV Systems Research and Development Department, Neusoft Medical Systems, Co., Ltd, Shenyang, China.
+
 <sup>12</sup> Department of Radiology & Nuclear Medicine, Erasmus MC, University Medical Center Rotterdam, The Netherlands.
+
 <sup>13</sup> Department of Radiology and Nuclear Medicine, Amsterdam University Medical Centers, location AMC, Amsterdam, The Netherlands.
+
 <sup>14</sup> Department of Radiology and Nuclear Medicine, Cardiovascular Research Institute Maastricht, Maastricht University Medical Center, Maastricht, The Netherlands.
+
 <sup>15</sup> Center for Biological Imaging, Institute of Biophysics, Chinese Academy of Sciences, Beijing, China.
 
 
@@ -37,7 +45,7 @@ Huangxuan Zhao<sup>1 ⚝ :email:</sup>,[Ziyang Xu](https://ziyangxu.top/)<sup>2 
 
 ### News
 
-* **` March. 26th, 2024`:** We released our inference code. Paper/Project pages are coming soon. Please stay tuned! ☕️
+* **` March. 27th, 2024`:** We released our inference code. Paper/Project pages are coming soon. Please stay tuned! ☕️
 
 ## Abstract
 Digital subtraction angiography (DSA) devices have been commonly used in hundreds of different interventional procedures in various parts of the body, requiring multiple scans of the patient in a single procedure, which was high radiation damage to doctors and patients. Inspired by generative artificial intelligence techniques, this study proposed a large-scale pretrained multi-frame generative model-based real-time and low-dose DSA imaging system (GenDSA). Suitable for most DSA scanning protocols, GenDSA could reduce the DSA frame rate (i.e., radiation dose) to 1/3 and generates video that was virtually identical to clinically available protocols. GenDSA was pre-trained, fine-tuned and tested on ten million of images from 35 hospitals. Objective quantitative metrics (PSNR=36.83, SSIM=0.911, generated times=0.07s/frame) demonstrated that the GenDSA’s performance surpassed that of state-of-the-art algorithms in the field of image frame generation. Subjective ratings and statistical results from five doctors showed that the generated videos reached a comparable level to the full-sampled videos, both in terms of overall quality (4.905 vs 4.935) and lesion assessment (4.825 vs 4.860), which fully demonstrated the potential of GenDSA for clinical applications.
