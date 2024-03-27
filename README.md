@@ -1,7 +1,7 @@
 <!--
  * @Author: Xu Ziyang
  * @Date: 2024-03-27 02:12:59
- * @LastEditTime: 2024-03-27 21:59:28
+ * @LastEditTime: 2024-03-27 22:00:36
  * @Description: 
 -->
 <div align="center">
@@ -37,7 +37,7 @@ Huangxuan Zhao<sup>1 🏷️ :email:</sup>,[Ziyang Xu](https://ziyangxu.top/)<su
 
 ## 🔔News
 
-* **`March 27, 2024`:** We released our inference code. Paper/Project pages are coming soon. Please stay tuned! <img src='/sundry/1f379.gif' width="16px">
+* **`March 27, 2024`:** We released our inference code. Paper/Project pages are coming soon. Please stay tuned! <img src='/sundry/1f379.gif' width="30px">
 
 ## 🔖Abstract
 Digital subtraction angiography (DSA) devices have been commonly used in hundreds of different interventional procedures in various parts of the body, requiring multiple scans of the patient in a single procedure, which was high radiation damage to doctors and patients. Inspired by generative artificial intelligence techniques, this study proposed a large-scale pretrained multi-frame generative model-based real-time and low-dose DSA imaging system (GenDSA). Suitable for most DSA scanning protocols, GenDSA could reduce the DSA frame rate (i.e., radiation dose) to 1/3 and generates video that was virtually identical to clinically available protocols. GenDSA was pre-trained, fine-tuned and tested on ten million of images from 35 hospitals. Objective quantitative metrics (PSNR=36.83, SSIM=0.911, generated times=0.07s/frame) demonstrated that the GenDSA’s performance surpassed that of state-of-the-art algorithms in the field of image frame generation. Subjective ratings and statistical results from five doctors showed that the generated videos reached a comparable level to the full-sampled videos, both in terms of overall quality (4.905 vs 4.935) and lesion assessment (4.825 vs 4.860), which fully demonstrated the potential of GenDSA for clinical applications.
