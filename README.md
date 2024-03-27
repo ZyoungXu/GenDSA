@@ -29,7 +29,7 @@ Huangxuan Zhao<sup>1 🏷️ :email:</sup>,[Ziyang Xu](https://ziyangxu.top/)<su
 
 </div>
 
-## <img src='/sundry/1f4e3.gif' width="40px"> News
+## <img src='/sundry/1f43c.gif' width="40px"> News
 
 * **`March 27, 2024`:** We released our inference code. Paper/Project pages are coming soon. Please stay tuned! <img src='/sundry/1f379.gif' width="20px">
 
