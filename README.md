@@ -1,11 +1,5 @@
-<!--
- * @Author: Xu Ziyang
- * @Date: 2024-03-27 02:12:59
- * @LastEditTime: 2024-03-27 22:00:36
- * @Description: 
--->
 <div align="center">
-<h1>GenDSA</h1>
+<h1><img src='/sundry/1f52c.gif' width="30px">GenDSA<img src='/sundry/1f4a1.gif' width="30px"></h1>
 <h3>Large-scale Pretrained Multi-Frame Generative Model Enables Real-Time Low-Dose DSA Imaging</h3>
 
 Huangxuan Zhao<sup>1 🏷️ :email:</sup>,[Ziyang Xu](https://ziyangxu.top/)<sup>2 🏷️</sup>,Linxia Wu<sup>1 🏷️</sup>, Lei Chen<sup>1 🏷️</sup>, Ziwei Cui<sup>2</sup>, Jinqiang Ma<sup>1</sup>, Tao Sun<sup>1</sup>, Yu Lei<sup>1</sup>, Nan Wang<sup>3</sup>, Hongyao Hu<sup>4</sup>, Yiqing Tan<sup>5</sup>, Wei Lu<sup>6</sup>, Wenzhong Yang<sup>7</sup>, Kaibing Liao<sup>8</sup>, Gaojun Teng<sup>9</sup>, Xiaoyun Liang<sup>10</sup>, Yi Li<sup>10</sup>, Congcong Feng<sup>11</sup>, Tong Nie<sup>1</sup>, Xiaoyu Han<sup>1</sup>, P.Matthijs van der Sluijs<sup>12</sup>, Charles B.L.M. Majoie<sup>13</sup>, Wim H. van Zwam<sup>14</sup>, Yun Feng<sup>15</sup>, Theo van Walsum<sup>11</sup>, Aad van der Lugt<sup>11</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>2</sup>, Xuefeng Kan<sup>1 :email:</sup>, Ruisheng Su<sup>11 :email:</sup>, Weihua Zhang<sup>9 :email:</sup>, [Xinggang Wang](https://xwcv.github.io/)<sup>2 :email:</sup>, Chuansheng Zheng<sup>1 :email:</sup>
@@ -58,6 +52,7 @@ pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 -f https://download.pyt
 # cd /xx/xx/GenDSA
 pip install -r GenDSA_env.txt
 ```
+
 
 ## 🗃️Model Checkpoints
 Download the zip of [model checkpoints](https://share.weiyun.com/ze6bOv0i) (key:```mqfd5s```), decompress and put all pkl files into ../GenDSA/weights/checkpoints.
