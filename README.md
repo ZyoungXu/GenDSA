@@ -1,5 +1,5 @@
 <div align="center">
-<h1><img src='/sundry/1f52c.gif' width="30px">GenDSA<img src='/sundry/1f4a1.gif' width="30px"></h1>
+<h1><img src='/sundry/1f52c.gif' width="35px"> GenDSA <img src='/sundry/1f4a1.gif' width="35px"></h1>
 <h3>Large-scale Pretrained Multi-Frame Generative Model Enables Real-Time Low-Dose DSA Imaging</h3>
 
 Huangxuan Zhao<sup>1 🏷️ :email:</sup>,[Ziyang Xu](https://ziyangxu.top/)<sup>2 🏷️</sup>,Linxia Wu<sup>1 🏷️</sup>, Lei Chen<sup>1 🏷️</sup>, Ziwei Cui<sup>2</sup>, Jinqiang Ma<sup>1</sup>, Tao Sun<sup>1</sup>, Yu Lei<sup>1</sup>, Nan Wang<sup>3</sup>, Hongyao Hu<sup>4</sup>, Yiqing Tan<sup>5</sup>, Wei Lu<sup>6</sup>, Wenzhong Yang<sup>7</sup>, Kaibing Liao<sup>8</sup>, Gaojun Teng<sup>9</sup>, Xiaoyun Liang<sup>10</sup>, Yi Li<sup>10</sup>, Congcong Feng<sup>11</sup>, Tong Nie<sup>1</sup>, Xiaoyu Han<sup>1</sup>, P.Matthijs van der Sluijs<sup>12</sup>, Charles B.L.M. Majoie<sup>13</sup>, Wim H. van Zwam<sup>14</sup>, Yun Feng<sup>15</sup>, Theo van Walsum<sup>11</sup>, Aad van der Lugt<sup>11</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>2</sup>, Xuefeng Kan<sup>1 :email:</sup>, Ruisheng Su<sup>11 :email:</sup>, Weihua Zhang<sup>9 :email:</sup>, [Xinggang Wang](https://xwcv.github.io/)<sup>2 :email:</sup>, Chuansheng Zheng<sup>1 :email:</sup>
@@ -29,15 +29,15 @@ Huangxuan Zhao<sup>1 🏷️ :email:</sup>,[Ziyang Xu](https://ziyangxu.top/)<su
 
 </div>
 
-## <img src='/sundry/' width="30px">News
+## <img src='/sundry/1f4e3.gif' width="30px"> News
 
 * **`March 27, 2024`:** We released our inference code. Paper/Project pages are coming soon. Please stay tuned! <img src='/sundry/1f379.gif' width="20px">
 
-## <img src='/sundry/1f4f0.gif' width="30px">Abstract
+## <img src='/sundry/1f4f0.gif' width="30px"> Abstract
 Digital subtraction angiography (DSA) devices have been commonly used in hundreds of different interventional procedures in various parts of the body, requiring multiple scans of the patient in a single procedure, which was high radiation damage to doctors and patients. Inspired by generative artificial intelligence techniques, this study proposed a large-scale pretrained multi-frame generative model-based real-time and low-dose DSA imaging system (GenDSA). Suitable for most DSA scanning protocols, GenDSA could reduce the DSA frame rate (i.e., radiation dose) to 1/3 and generates video that was virtually identical to clinically available protocols. GenDSA was pre-trained, fine-tuned and tested on ten million of images from 35 hospitals. Objective quantitative metrics (PSNR=36.83, SSIM=0.911, generated times=0.07s/frame) demonstrated that the GenDSA’s performance surpassed that of state-of-the-art algorithms in the field of image frame generation. Subjective ratings and statistical results from five doctors showed that the generated videos reached a comparable level to the full-sampled videos, both in terms of overall quality (4.905 vs 4.935) and lesion assessment (4.825 vs 4.860), which fully demonstrated the potential of GenDSA for clinical applications.
 
 
-## <img src='/sundry/1f9f3.gif' width="30px">Environment Setups
+## <img src='/sundry/1f9f3.gif' width="30px"> Environment Setups
 
 * python 3.8
 * cudatoolkit 11.2.1
@@ -54,10 +54,10 @@ pip install -r GenDSA_env.txt
 ```
 
 
-## <img src='/sundry/1f5c2-fe0f.gif' width="30px">Model Checkpoints
+## <img src='/sundry/1f5c2-fe0f.gif' width="30px"> Model Checkpoints
 Download the zip of [model checkpoints](https://share.weiyun.com/ze6bOv0i) (key:```mqfd5s```), decompress and put all pkl files into ../GenDSA/weights/checkpoints.
 
-## <img src='/sundry/1f3ac.gif' width="30px">Inference Demo
+## <img src='/sundry/1f3ac.gif' width="30px"> Inference Demo
 Run the following commands to generate single/multi-frame interpolation:
 
 * Single-frame interpolation
