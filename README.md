@@ -31,6 +31,8 @@ Huangxuan Zhao<sup>1 🏷️ :email:</sup>,[Ziyang Xu](https://ziyangxu.top/)<su
 
 ## <img src='/sundry/1f43c.gif' width="30px"> News
 
+* **`June 5, 2024`:** We released a portion of the 3D vascular and 3D non vascular datasets. ([link here](https://drive.google.com/drive/folders/1t-esIdUnVcZdFXmSGhGcwhcpI0KyGKY0?usp=sharing))
+
 * **`March 27, 2024`:** We released our inference code. Paper/Project pages are coming soon. Please stay tuned! <img src='/sundry/1f379.gif' width="20px">
 
 ## <img src='/sundry/1f4f0.gif' width="30px"> Abstract
@@ -56,6 +58,10 @@ pip install -r GenDSA_env.txt
 
 ## <img src='/sundry/1f5c2-fe0f.gif' width="30px"> Model Checkpoints
 Download the zip of [model checkpoints](https://share.weiyun.com/ze6bOv0i) (key:```mqfd5s```), decompress and put all pkl files into ../GenDSA/weights/checkpoints.
+
+## <img src='/sundry/听诊器.gif' width="30px"> Our Dataset and Inference Cases
+We released a portion of the 3D vascular and non vascular datasets, including the results of our model inference. ([Google Drive](https://drive.google.com/drive/folders/1t-esIdUnVcZdFXmSGhGcwhcpI0KyGKY0?usp=sharing))
+
 
 ## <img src='/sundry/1f3ac.gif' width="30px"> Inference Demo
 Run the following commands to generate single/multi-frame interpolation:
