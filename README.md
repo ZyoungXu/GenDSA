@@ -31,6 +31,8 @@ Huangxuan Zhao<sup>1 🏷️ :email:</sup>,[Ziyang Xu](https://ziyangxu.top/)<su
 
 ## <img src='/sundry/1f43c.gif' width="30px"> News
 
+* **`July 5, 2024`:** GenDSA is received by Med (Cell Press journal)! 🍻
+
 * **`June 5, 2024`:** We released a portion of the 3D vascular and 3D non vascular datasets. ([link here](https://drive.google.com/drive/folders/1t-esIdUnVcZdFXmSGhGcwhcpI0KyGKY0?usp=sharing))
 
 * **`March 27, 2024`:** We released our inference code. Paper/Project pages are coming soon. Please stay tuned! <img src='/sundry/1f379.gif' width="20px">
