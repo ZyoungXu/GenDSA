@@ -2,6 +2,8 @@
 <h1><img src='/sundry/1f52c.gif' width="35px"> GenDSA <img src='/sundry/1f4a1.gif' width="35px"></h1>
 <h3>Large-scale Pretrained Multi-Frame Generative Model Enables Real-Time Low-Dose DSA Imaging</h3>
 
+[![paper](https://img.shields.io/badge/Paper-Online_Available_(click_here)-orange)](https://www.cell.com/cms/10.1016/j.medj.2024.07.025/attachment/4209f5f8-1a77-4e15-a872-80a6239ec7bd/mmc3.pdf#:~:text=development%20and%20multi-center%20validation%20study,%20Med%20(2024),) [![license](https://img.shields.io/badge/License-Apache_2.0_(click_here)-blue)](LICENSE)
+
 Huangxuan Zhao<sup>1 🏷️ :email:</sup>,[Ziyang Xu](https://ziyangxu.top/)<sup>2 🏷️</sup>,Linxia Wu<sup>1 🏷️</sup>, Lei Chen<sup>1 🏷️</sup>, [Ziwei Cui](https://github.com/ziwei-cui)<sup>2</sup>, Jinqiang Ma<sup>1</sup>, Tao Sun<sup>1</sup>, Yu Lei<sup>1</sup>, Nan Wang<sup>3</sup>, Hongyao Hu<sup>4</sup>, Yiqing Tan<sup>5</sup>, Wei Lu<sup>6</sup>, Wenzhong Yang<sup>7</sup>, Kaibing Liao<sup>8</sup>, Gaojun Teng<sup>9</sup>, Xiaoyun Liang<sup>10</sup>, Yi Li<sup>10</sup>, Congcong Feng<sup>11</sup>, Tong Nie<sup>1</sup>, Xiaoyu Han<sup>1</sup>, P.Matthijs van der Sluijs<sup>12</sup>, Charles B.L.M. Majoie<sup>13</sup>, Wim H. van Zwam<sup>14</sup>, Yun Feng<sup>15</sup>, Theo van Walsum<sup>11</sup>, Aad van der Lugt<sup>11</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>2</sup>, Xuefeng Kan<sup>1 :email:</sup>, Ruisheng Su<sup>11 :email:</sup>, Weihua Zhang<sup>9 :email:</sup>, [Xinggang Wang](https://xwcv.github.io/)<sup>2 :email:</sup>, Chuansheng Zheng<sup>1 :email:</sup>
 
 (<sup>🏷️</sup>) equal contribution, (<sup>:email:</sup>) corresponding author.
@@ -30,6 +32,8 @@ Huangxuan Zhao<sup>1 🏷️ :email:</sup>,[Ziyang Xu](https://ziyangxu.top/)<su
 </div>
 
 ## <img src='/sundry/1f43c.gif' width="30px"> News
+
+* **`September 4, 2024`:** [Paper](https://www.cell.com/cms/10.1016/j.medj.2024.07.025/attachment/4209f5f8-1a77-4e15-a872-80a6239ec7bd/mmc3.pdf#:~:text=development%20and%20multi-center%20validation%20study,%20Med%20(2024),) is online and available now. Enjoy!
 
 * **`July 5, 2024`:** GenDSA is received by Med (Cell Press journal)! <img src='/sundry/cheers.gif' width="25px">
 
