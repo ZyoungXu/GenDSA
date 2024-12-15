@@ -99,7 +99,20 @@ python Simple_Interpolator.py \
 --inter_frames 3
 ```
 
-You can also use other checkpoints to generate 1~3 frame interpolation for your 2D/3D Head/Abdomen/Thorax/Pelvic/Periph images. Please promote and cite our work if you find it helpful. Enjoy!
+You can also use other checkpoints to generate 1~3 frame interpolation for your 2D/3D Head/Abdomen/Thorax/Pelvic/Periph images.
+
+## 💖 Citation
+Please promote and cite our work if you find it helpful. Enjoy!
+```shell
+@article{zhao2024large,
+    title={Large-scale pretrained frame generative model enables real-time low-dose DSA imaging: An AI system development and multi-center validation study},
+    author={Zhao, Huangxuan and Xu, Ziyang and Chen, Lei and Wu, Linxia and Cui, Ziwei and Ma, Jinqiang and Sun, Tao and Lei, Yu and Wang, Nan and Hu, Hongyao and others},
+    journal={Med},
+    year={2024},
+    publisher={Elsevier},
+    url={https://doi.org/10.1016/j.medj.2024.07.025},
+}
+```
 
 
 <!--
