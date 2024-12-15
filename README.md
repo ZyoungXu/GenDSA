@@ -99,7 +99,7 @@ python Simple_Interpolator.py \
 --inter_frames 3
 ```
 
-You can also use other checkpoints to generate 1~3 frame interpolation for your 2D/3D Head/Abdomen/Thorax/Pelvic/Periph images.
+You can also use other checkpoints to generate 1~3 frame interpolation for your 2D/3D - Head/Abdomen/Thorax/Pelvic/Periph images.
 
 ## 💖 Citation
 Please promote and cite our work if you find it helpful. Enjoy!
