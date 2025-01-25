@@ -29,6 +29,8 @@ Huangxuan Zhao<sup>1 🏷️ :email:</sup>,[Ziyang Xu](https://ziyangxu.top/)<su
 
 ## <img src='/sundry/1f43c.gif' width="30px"> News
 
+* **`January 25, 2025`:** 🔥🔥🔥 GenDSA-V2 coming soon! 🔥🔥🔥 We further scaled up the data and conducted a large number of clinical trials at multiple centers. The new work is under review, please pay attention!
+
 * **`September 4, 2024`:** [Paper](https://www.cell.com/cms/10.1016/j.medj.2024.07.025/attachment/4209f5f8-1a77-4e15-a872-80a6239ec7bd/mmc3.pdf#:~:text=development%20and%20multi-center%20validation%20study,%20Med%20(2024),) is online and available now. Enjoy!
 
 * **`July 5, 2024`:** GenDSA is received by Med (Cell Press journal)! <img src='/sundry/cheers.gif' width="25px">
