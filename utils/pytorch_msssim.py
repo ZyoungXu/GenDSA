@@ -16,6 +16,7 @@ def create_window(window_size, channel=1):
     window = _2D_window.expand(channel, 1, window_size, window_size).contiguous()
     return window
 
+
 def create_window_3d(window_size, channel=1):
     _1D_window = gaussian(window_size, 1.5).unsqueeze(1)
     _2D_window = _1D_window.mm(_1D_window.t())

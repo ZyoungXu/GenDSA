@@ -309,9 +309,9 @@ class CrossScalePatchEmbed(nn.Module):
 
 class StructFormer(nn.Module):
     def __init__(self, in_chans=3, embed_dims=[32, 64, 128, 256, 512], motion_dims=64, num_heads=[8, 16],
-                 mlp_ratios=[4, 4], lambda_global_or_local = 'local', lambda_dim_k = 16, lambda_dim_u = 1,
-                 lambda_n = 32, lambda_r = None, drop_rate=0., drop_path_rate=0., norm_layer=nn.LayerNorm,
-                 depths=[2, 2, 2, 4, 4], **kwarg):
+                mlp_ratios=[4, 4], lambda_global_or_local = 'local', lambda_dim_k = 16, lambda_dim_u = 1,
+                lambda_n = 32, lambda_r = None, drop_rate=0., drop_path_rate=0., norm_layer=nn.LayerNorm,
+                depths=[2, 2, 2, 4, 4], **kwarg):
         super().__init__()
         self.depths = depths
         self.num_stages = len(embed_dims)

@@ -25,10 +25,6 @@ Huangxuan Zhao<sup>1 🏷️ :email:</sup>,[Ziyang Xu](https://ziyangxu.top/)<su
 <sup>15</sup> Center for Biological Imaging, Institute of Biophysics, Chinese Academy of Sciences, Beijing, China.
 
 
-<!--
-### [Project Page]() | [Paper link]()
--->
-
 </div>
 
 ## <img src='/sundry/1f43c.gif' width="30px"> News
@@ -76,8 +72,8 @@ Run the following commands to generate single/multi-frame interpolation:
 ```shell
 python Simple_Interpolator.py \
 --model_path ./weights/checkpoints/3D-vas-Inf1.pkl \
---frame1 ./demo_images/DSA_a.png \
---frame2 ./demo_images/DSA_b.png \
+--frame1 ./demo_images/DSA_1.png \
+--frame2 ./demo_images/DSA_2.png \
 --inter_frames 1
 ```
 
@@ -85,8 +81,8 @@ python Simple_Interpolator.py \
 ```shell
 python Simple_Interpolator.py \
 --model_path ./weights/checkpoints/3D-vas-Inf2.pkl \
---frame1 ./demo_images/DSA_a.png \
---frame2 ./demo_images/DSA_b.png \
+--frame1 ./demo_images/DSA_1.png \
+--frame2 ./demo_images/DSA_2.png \
 --inter_frames 2
 ```
 
@@ -94,8 +90,8 @@ python Simple_Interpolator.py \
 ```shell
 python Simple_Interpolator.py \
 --model_path ./weights/checkpoints/3D-vas-Inf3.pkl \
---frame1 ./demo_images/DSA_a.png \
---frame2 ./demo_images/DSA_b.png \
+--frame1 ./demo_images/DSA_1.png \
+--frame2 ./demo_images/DSA_2.png \
 --inter_frames 3
 ```
 

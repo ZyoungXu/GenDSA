@@ -1,6 +1,5 @@
 from functools import partial
 import torch.nn as nn
-
 from model import encoder
 from model import decoder
 

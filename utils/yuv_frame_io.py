@@ -10,6 +10,7 @@ from PIL import Image
 import os
 from shutil import copyfile
 
+
 class YUV_Read():
     def __init__(self, filepath, h, w, format='yuv420', toRGB=True):
 

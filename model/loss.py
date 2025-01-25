@@ -6,6 +6,7 @@ from . import vgg19_losses as vgg19
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
+
 def gauss_kernel(channels=3):
     kernel = torch.tensor([[1., 4., 6., 4., 1],
                            [4., 16., 24., 16., 4.],

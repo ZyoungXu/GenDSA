@@ -179,5 +179,4 @@ def style_loss(image: torch.Tensor,
             _compute_gram_matrix(vgg_img['conv5_2'] / 255.0, mask))) * weights[4]
 
     final_loss = p1 + p2 + p3 + p4 + p5
-
     return final_loss

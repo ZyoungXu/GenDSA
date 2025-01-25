@@ -6,7 +6,6 @@ import cv2
 import math
 import torch
 import argparse
-
 import config as cfg
 from Trainer import Model
 from utils.padder import InputPadder
@@ -32,8 +31,8 @@ def run_interpolator(model, Frame1, Frame2, time_list, Output_Frames_list, TTA =
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--model_path', type=str, default='./weights/checkpoints/3D-vas-Inf1.pkl')
-    parser.add_argument('--frame1', type=str, default='./demo_images/DSA_a.png')
-    parser.add_argument('--frame2', type=str, default='./demo_images/DSA_b.png')
+    parser.add_argument('--frame1', type=str, default='./demo_images/DSA_1.png')
+    parser.add_argument('--frame2', type=str, default='./demo_images/DSA_2.png')
     parser.add_argument('--inter_frames', type=int, default=1)
     args = parser.parse_args()
 
